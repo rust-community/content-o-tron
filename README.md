@@ -1,6 +1,6 @@
 # Content-o-Tron :robot:
 
-_Helping the Rust community and new comers to share their story of using Rust!_
+_Helping the Rust community and newcomers to share their story of using Rust!_
 
 ## Welcome
 
@@ -18,29 +18,29 @@ This document (`README.md`) is your directory to all the possible facets of Cont
 
 ## What are we doing? (And why are we doing it?)
 
-What we are trying to do with this project is to formalise the process of generating Rust focussed (topic based) blog posts, whilst using a methodical way to gain repeat contributions.
+This project aims to formalise the process of generating Rust-focussed blog posts, while using a methodical way to gain repeat contributions.
 
-Writing technical articles can sometimes feel daunting, often an author will wait until they have spent a considerable time learning Rust before even considering sharing their experience. Even then, the act of sharing will often be done verbally with friends or as part of a meetup. This unique insight isn't being shared with the wider Rust community.
+Writing technical articles can sometimes feel daunting. Often an author will wait until they have spent a considerable time learning Rust before even considering sharing their experience. Even then, the act of sharing will often be done verbally with friends or as part of a meetup. Their unique insight isn't being shared with the wider Rust community.
 
-Another reason that prevents these prospective authors from writing is the thought someone else will do it better than they could ever hope to achieve.
+Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way.)
 
 ## Who are we?
 
-Whilst this a Rust Content team (sub-team of the Community team) project, it is open to the technology community. You don't need to know anything about Rust to join.
+Although this a Rust Content team project (sub-team of the Community team), it is open to the technology community. You don't need to know anything about Rust to join.
 
 ## What do we need?
 
-Initially we'll be looking for people to review and edit submissions by users, ideally you should come from an editorial background or do some form of copy editing in your day job. 
+Initially we'll be looking for people to review and edit submissions. Ideally you should come from an editorial background or do some form of copy editing in your day job. 
 
-If you have Rust experience, then you could help technical reviews.
+If you have Rust experience, then you could help with technical reviews.
 
 ## How can you get involved?
 
 TODO: need a google webform for sign up to be a contributor.
 
-Our [roadmap](https://github.com/booyaa/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (which is adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
+Our [roadmap](https://github.com/booyaa/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
 
-Attend our fornightly meetings, you can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
+Attend our fornightly meetings. You can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
 
 ## Contact Us
 
