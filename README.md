@@ -26,7 +26,7 @@ Another reason that prevents prospective authors from writing is the thought tha
 
 ## Who are we?
 
-Although this a Rust Content team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community. Also you don't need to know anything about Rust to join.
+Although this a Rust [Content](https://github.com/rust-community/content-team) team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community. Also you don't need to know anything about Rust to join.
 
 ## What do we need?
 
