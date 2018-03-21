@@ -26,7 +26,7 @@ Another reason that prevents prospective authors from writing is the thought tha
 
 ## Who are we?
 
-Although this a Rust Content team project (sub-team of the Community team), it is open to the technology community. You don't need to know anything about Rust to join.
+Although this a Rust Content team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community. Also you don't need to know anything about Rust to join.
 
 ## What do we need?
 
@@ -48,7 +48,11 @@ If you can attend the meeting, feel free to add your query to the agenda. Altern
 
 ## Frequently Asked Questions
 
-TBC
+- Q: What is Rust?
+  - A: Rust is a systems programming language, who's performance is comparable to C/C++, but whose memory and thread safety is similar to high level languages.
+- Q: What is systems programming
+  - A: This is tier below Application programming, in this area you would write device drivers, operating systems and cryptographic libraries.
+
 
 ## Glossary
 
