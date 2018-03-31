@@ -1,4 +1,4 @@
-## Contributing to the Content-o-Tron Project
+# Contributing to the Content-o-Tron Project
 
 Welcome to the project repository, and thank you for offer of contributing!
 
