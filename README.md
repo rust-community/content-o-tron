@@ -18,6 +18,12 @@ This document (`README.md`) is your directory to all the possible facets of Cont
 
 ## What are we doing? (And why are we doing it?)
 
+### TL;DR
+
+This is a guide to organise a blogging campaign, in particular we are interested in people are new to long form writing. We try join new bloggers with people who can help edit the blog posts or advise about technical aspects of their blog post.
+
+### A better explanation
+
 This project aims to formalise the process of generating Rust-focussed blog posts, while using a methodical way to gain repeat contributions.
 
 Writing technical articles can sometimes feel daunting. Often an author will wait until they have spent a considerable time learning Rust before even considering sharing their experience. Even then, the act of sharing will often be done verbally with friends or as part of a meetup. Their unique insight isn't being shared with the wider Rust community.
