@@ -1,1 +1,1 @@
-Add your blog posts in via pull request
+Add your blog posts in via pull request. Don't forget to create a related issue using this handy [link](https://github.com/rust-community/content-o-tron/issues/new?title=Rust+All+Hands+Help+Wanted:__YOUR_BLOG_POST_TITLE__&labels=help+wanted&template=rust_all_hands_help_wanted.md).
