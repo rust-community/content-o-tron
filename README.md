@@ -4,7 +4,7 @@ _Helping the Rust community and newcomers to share their story of using Rust!_
 
 ## Welcome
 
-This is the project repository for a way to grow and sustain blogging campaigns driven by the Rust community. 
+This is the project repository for the process that will allow us to define and manage blogging themes (campaigns) that are Rust related.
 
 This document (`README.md`) is your directory to all the possible facets of Content-o-Tron. You'll find out about the purpose, the team involved and more importantly how you can help!
 
@@ -30,13 +30,19 @@ Writing technical articles can sometimes feel daunting. Often an author will wai
 
 Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way.)
 
+## What type of blog posts are we talking about?
+
+One of our best examples, is when the Rust team asked the entire community to help shape the programming language by write blog posts about what they would like to see in the Rust roadmap for 2018. The blog posts can be seen via [readrust](https://readrust.net/rust-2018/), which is a blog post aggregator.
+
 ## Who are we?
 
-Although this a Rust [Content](https://github.com/rust-community/content-team) team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community. Also you don't need to know anything about Rust to join.
+Although this a Rust [Content](https://github.com/rust-community/content-team) team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community.
+
+Important note: you don't need to know anything about Rust to join.
 
 ## What do we need?
 
-Initially we'll be looking for people to review and edit submissions. Ideally you should come from an editorial background or do some form of copy editing in your day job. 
+Initially we'll be looking for people to review and edit submissions.
 
 If you have Rust experience, then you could help with technical reviews.
 
@@ -48,7 +54,9 @@ Attend our fornightly meetings. You can find the next meeting via the Content te
 
 ## Contact Us
 
-If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question on the irc channel ([#rust-content](https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content) on the Mozilla network). Finally you can always raise an [issue](https://github.com/booyaa/content-o-tron/issues/new).
+If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question on the irc channel ([#rust-content](https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content) on the Mozilla network). 
+
+Finally you can always raise an [issue](https://github.com/booyaa/content-o-tron/issues/new).
 
 ## Frequently Asked Questions
 
@@ -57,7 +65,15 @@ If you can attend the meeting, feel free to add your query to the agenda. Altern
 - Q: What is systems programming
   - A: This is tier below Application programming, in this area you would write device drivers, operating systems and cryptographic libraries.
 
-
 ## Glossary
 
-TBC
+- Blog - shortened form of Weblog, originally a self hosted journal. Can also be the verb i.e. blogging - to write blog posts.
+- Blogging platform - usually hosted by an internet company like Google (Blogger), Medium or WordPress (which can also be self hosted).
+- Blog post - the smallest unit of data that can be posted on a blog.
+- Microblogging - a short form of blogging made popular by social networks like Twitter.
+
+## Props / Thanks
+
+- [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) programme (specifically Abby, Priyanka, Rob and the Cohort of Chaos aka Cohort C)
+- [Kristie Whitaker](https://github.com/KirstieJane) for her awesome [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) repo, whose format (including issues) I shamelessly borrowed heavily from.
+- The [Rust Community](https://community.rs) team for their continued help and support.

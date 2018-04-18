@@ -5,6 +5,11 @@ Welcome to the project repository, and thank you for offer of contributing!
 The purpose of this document is to illustrate the ways you can help the project out.
 
 If you've never used GitHub before, we plan to include links to helpful documents to get you started. If you get stuck, join us for our fortnightly meetings. The details can be found in the [agenda][link_agenda].
+
+## Participation guidelines
+
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.MD). By participating, you are expected to uphold this code.
+
 ## Quick tasks (5 mins)
 
 ### Triage any open issues
