@@ -20,7 +20,7 @@ This document (`README.md`) is your directory to all the possible facets of Cont
 
 ### TL;DR
 
-This is a guide to organise a blogging campaign, in particular we are interested in people are new to long form writing. We try join new bloggers with people who can help edit the blog posts or advise about technical aspects of their blog post.
+This is a guide to organising a blogging campaign, in particular we are interested in people are new to long form writing. We try join new bloggers with people who can help edit the blog posts or advise about technical aspects of their blog post.
 
 ### A better explanation
 
@@ -28,9 +28,11 @@ This project aims to formalise the process of generating Rust-focussed blog post
 
 Writing technical articles can sometimes feel daunting. Often an author will wait until they have spent a considerable time learning Rust before even considering sharing their experience. Even then, the act of sharing will often be done verbally with friends or as part of a meetup. Their unique insight isn't being shared with the wider Rust community.
 
-Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way.)
+Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way)
 
-## What type of blog posts are we talking about?
+### TODO: add what Rust is
+
+### What type of blog posts are we talking about?
 
 One of our best examples, is when the Rust team asked the entire community to help shape the programming language by write blog posts about what they would like to see in the Rust roadmap for 2018. The blog posts can be seen via [readrust](https://readrust.net/rust-2018/), which is a blog post aggregator.
 
@@ -38,19 +40,17 @@ One of our best examples, is when the Rust team asked the entire community to he
 
 Although this a Rust [Content](https://github.com/rust-community/content-team) team project (sub-team of the [Community](https://github.com/rust-community/) team), it is open to the technology community.
 
-Important note: you don't need to know anything about Rust to join.
-
 ## What do we need?
 
-Initially we'll be looking for people to review and edit submissions.
-
-If you have Rust experience, then you could help with technical reviews.
+We need you!
 
 ## How can you get involved?
 
 Our [roadmap](https://github.com/booyaa/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
 
 Attend our fornightly meetings. You can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
+
+Important note: you don't need to know anything about Rust to join.
 
 ## Contact Us
 
@@ -71,6 +71,7 @@ Finally you can always raise an [issue](https://github.com/booyaa/content-o-tron
 - Blogging platform - usually hosted by an internet company like Google (Blogger), Medium or WordPress (which can also be self hosted).
 - Blog post - the smallest unit of data that can be posted on a blog.
 - Microblogging - a short form of blogging made popular by social networks like Twitter.
+- TL;DR - too long; didn't read.
 
 ## Props / Thanks
 
