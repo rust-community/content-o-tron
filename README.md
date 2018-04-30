@@ -56,7 +56,7 @@ Important note: you don't need to know anything about Rust to join.
 
 If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question on the irc channel ([#rust-content](https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content) on the Mozilla network). 
 
-Finally you can always raise an [issue](https://github.com/booyaa/content-o-tron/issues/new).
+Finally you can always raise an [issue](https://github.com/rust-community/content-o-tron/issues/new).
 
 ## Frequently Asked Questions
 
