@@ -46,7 +46,7 @@ We need you!
 
 ## How can you get involved?
 
-Our [roadmap](https://github.com/booyaa/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
+Our [roadmap](https://github.com/rust-community/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
 
 Attend our fornightly meetings. You can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
 
@@ -56,7 +56,7 @@ Important note: you don't need to know anything about Rust to join.
 
 If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question on the irc channel ([#rust-content](https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content) on the Mozilla network). 
 
-Finally you can always raise an [issue](https://github.com/booyaa/content-o-tron/issues/new).
+Finally you can always raise an [issue](https://github.com/rust-community/content-o-tron/issues/new).
 
 ## Frequently Asked Questions
 
