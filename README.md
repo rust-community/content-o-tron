@@ -4,6 +4,10 @@ _Helping the Rust community and newcomers to share their story of using Rust!_
 
 ## Welcome
 
+### Mozilla Global Sprint 2018
+
+If you're visiting this repo because of the global sprint, please see this [tracking issue](https://github.com/rust-community/content-o-tron/issues/8) to see how you can help out! This header and text will be removed after the sprint as ended.
+
 This is the project repository for the process that will allow us to define and manage blogging themes (campaigns) that are Rust related.
 
 This document (`README.md`) is your directory to all the possible facets of Content-o-Tron. You'll find out about the purpose, the team involved and more importantly how you can help!
