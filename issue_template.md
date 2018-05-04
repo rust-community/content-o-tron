@@ -4,24 +4,30 @@
 
 Otherwise please fill out the form below to initiate a request for assistance.
 
-## 1. What type of help do you need (check one or more items)
+## Instructions
+
+### 1. Give your issue a title
+
+The suggested format is `Blogging assistance: title of your blog post`.
+
+### 2. What type of help do you need (check one or more items)
 
 - [ ] editing of blog post
 - [ ] technical review of blog post
 - [ ] general advice/feedback on the blog post (mentoring)
 - [ ] other (please specify below)
 
-## 2. Provide a link to your blog post draft
+### 3. Provide a link to your blog post draft
 
 _ADD URL LINK TO DRAFT HERE_
 
-### Adding your draft to the Content-o-Tron repository
+#### Adding your draft to the Content-o-Tron repository
 
 If this is part of an existing blogging campaign initiated by Content-o-Tron :robot: then you can place your draft (via pull request) in the appropriate campaigns folder (`/campaigns/name_of_campaign`) of this repo.
 
 Alternatively if this is not part of a blogging campaign then you can create a draft in the campaigns ad-hoc folder (`/campaigns/ad-hoc`).
 
-## 3. Describe the nature of the problem
+### 4. Describe the nature of the problem
 
 Please provide as much detail as you can.
 
@@ -34,7 +40,7 @@ Please provide as much detail as you can.
 
 ## Admin Use Only
 
-### Add this issue to tracking issue if part of campaign
+### Add this issue to tracking issue if part of campaign
 
 You can ignore this section, but do not delete. 
 
