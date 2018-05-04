@@ -4,9 +4,9 @@ _Helping the Rust community and newcomers to share their story of using Rust!_
 
 ## Welcome
 
-### Mozilla Global Sprint 2018
+> **Mozilla Global Sprint 2018**
 
-If you're visiting this repo because of the global sprint, please see this [tracking issue](https://github.com/rust-community/content-o-tron/issues/8) to see how you can help out! This header and text will be removed after the sprint as ended.
+> If you're visiting this repo because of the global sprint, please see this [tracking issue](https://github.com/rust-community/content-o-tron/issues/8) to see how you can help out! This header and text will be removed after the sprint as ended.
 
 This is the project repository for the process that will allow us to define and manage blogging themes (campaigns) that are Rust related.
 
@@ -46,11 +46,11 @@ Although this a Rust [Content](https://github.com/rust-community/content-team) t
 
 ## What do we need?
 
-We need you!
+We need you! If you've written blog posts (with or without Rust experience), editing other people's writing, or community managing, but even if you don't there may be other things you can help out with!
 
 ## How can you get involved?
 
-Our [roadmap](https://github.com/rust-community/content-o-tron/issues/2) should outline what is going to append, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
+Our [roadmap](https://github.com/rust-community/content-o-tron/issues/2) should outline what is going to happen, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
 
 Attend our fornightly meetings. You can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
 
