@@ -36,9 +36,16 @@ Writing technical articles can sometimes feel daunting. Often an author will wai
 
 Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way)
 
+### What's the plan?
+
+We would like to help the community to produce better and more quality output by giving them a focal point. For that, we will regularly run campaigns. A campaign runs over multiple weeks and promotes a _topic_. While a campaign is running, everyone is encouraged to submit texts to it - those might be explanatory blog posts, tutorials or examples with explanations. The people running the campaigns will read through all that, help out with suggestions and then promote the material. How much we help out depends on your wishes. You're not a native english speaker and need someone to help out on that? We'll proof-read! You're good in english but don't know if your way of explaining can be improved? We'll give feedback!
+
+The process is hands-off: there's not a high barrier of submission and the whole process is meant for _improving_ and _augmenting_ your output. We don't want to cause additional work, we want to help out and promote! If you don't need any of the editing support, but would just like to contribute things? Go ahead!
+
 ### What Rust is?
 
 Rust is an open source systems programming language, which is designed for writing highly reliable and fast system software in a simple way. Rust is focused on three goals: safety, speed, and concurrency. This means it prevents programs from crashing, runs blazingly fast, and ensures that all threads behave properly.
+
 
 ### What type of blog posts are we talking about?
 
