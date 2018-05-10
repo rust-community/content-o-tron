@@ -36,7 +36,9 @@ Writing technical articles can sometimes feel daunting. Often an author will wai
 
 Another reason that prevents prospective authors from writing is the thought that someone else will do it better than they could ever hope to achieve. (We don't believe this, but we understand that it can feel that way)
 
-### TODO: add what Rust is
+### What Rust is?
+
+Rust is an open source systems programming language, which is designed for writing highly reliable and fast system software in a simple way. Rust is focused on three goals: safety, speed, and concurrency. This means it prevents programs from crashing, runs blazingly fast, and ensures that all threads behave properly.
 
 ### What type of blog posts are we talking about?
 
