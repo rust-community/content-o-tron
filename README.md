@@ -42,7 +42,10 @@ We would like to help the community to produce better and more quality output by
 
 The process is hands-off: there's not a high barrier of submission and the whole process is meant for _improving_ and _augmenting_ your output. We don't want to cause additional work, we want to help out and promote! If you don't need any of the editing support, but would just like to contribute things? Go ahead!
 
-### TODO: add what Rust is
+### What Rust is?
+
+Rust is an open source systems programming language, which is designed for writing highly reliable and fast system software in a simple way. Rust is focused on three goals: safety, speed, and concurrency. This means it prevents programs from crashing, runs blazingly fast, and ensures that all threads behave properly.
+
 
 ### What type of blog posts are we talking about?
 
