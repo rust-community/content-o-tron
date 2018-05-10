@@ -2,6 +2,8 @@
 
 _Helping the Rust community and newcomers to share their story of using Rust!_
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/content-o-tron/Lobby)
+
 ## Welcome
 
 > **Mozilla Global Sprint 2018**
