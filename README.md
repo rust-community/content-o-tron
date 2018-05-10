@@ -44,7 +44,7 @@ The process is hands-off: there's not a high barrier of submission and the whole
 
 ### What Rust is?
 
-Rust is an open source systems programming language, which is designed for writing highly reliable and fast system software in a simple way. Rust is focused on three goals: safety, speed, and concurrency. This means it prevents programs from crashing, runs blazingly fast, and ensures that all threads behave properly.
+Rust is an open source systems programming language, which is designed for writing highly reliable and fast system software in a simple way. Rust is focused on three goals: safety, speed, and concurrency. This means it prevents programs from crashing, runs blazingly fast, and ensures that all threads behave properly. You can read more about [Rust here](https://www.rust-lang.org/).
 
 
 ### What type of blog posts are we talking about?
