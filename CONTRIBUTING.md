@@ -20,7 +20,7 @@ If this is your first time contributing to an open source project, then a gentle
 
 ## To code, or not to code
 
-If you don't write code, that's fine, seek out the tasks labelled [![no_code](https://img.shields.io/badge/-no%20code-fbca04.svg)][link_no_code].
+Non-code contributions are very important to us and you can find those tasks labelled [![no_code](https://img.shields.io/badge/-no%20code-fbca04.svg)][link_no_code].
 
 On the other hand if code's your thing you'll want to check out [![code](https://img.shields.io/badge/-code-5e9ced.svg)][link_code].
 
