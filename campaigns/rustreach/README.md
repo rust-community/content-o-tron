@@ -30,4 +30,4 @@ Click on the <img src = "https://github.com/akshitac8/github-buttons/blob/master
 		
 3. Add your blog post under this directory.
 
-4. Generate a pull request by clicking on the button.
+4. Generate a pull request by clicking on the <img src = "https://github.com/akshitac8/github-buttons/blob/master/2x/github_generate_pull.png" width=50 /> button.
