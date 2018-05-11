@@ -34,7 +34,7 @@ Please provide as much detail as you can.
 ## Next steps
 
 - The team will review the issue and tag it based on what you need.
-- A person with the appriopiate skills will be assigned and communicate via this issue.
+- A person with the appropriate skills will be assigned and communicate via this issue.
 
 ---
 
