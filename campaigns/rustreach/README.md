@@ -20,14 +20,16 @@ If you have any doubts, you can join our [Gitter](https://gitter.im/content-o-tr
 
 For adding your blog post here, follow these steps:
 
-1. Fork this repo
+1. **Fork this repo**
 
-Click on the <img src = "https://github.com/akshitac8/github-buttons/blob/master/2x/github_fork.png" width=50 /> button to make a copy of this repo in your own account.
+    Click on the <img src = "https://github.com/akshitac8/github-buttons/blob/master/2x/github_fork.png" width=50 /> button to make a copy of this repo in your own account.
 
-2. Clone your repo
+2. **Clone your repo**
 
 		git clone https://github.com/<your-name>/content-o-tron.git
 		
-3. Add your blog post under this directory.
+3. **Add your blog post under this directory.**
 
-4. Generate a pull request by clicking on the <img src = "https://github.com/akshitac8/github-buttons/blob/master/2x/github_generate_pull.png" width=50 /> button.
+4. **Generate a pull request**
+
+    Click on the <img src = "https://github.com/akshitac8/github-buttons/blob/master/2x/github_generate_pull.png" width=100 /> button to generate a Pull Request.
