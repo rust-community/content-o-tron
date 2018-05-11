@@ -1,10 +1,12 @@
 ___ DELETE ___
 
-[click here to create a new content-o-tron task](https://github.com/rust-community/content-o-tron/issues/new?template=new_content-o-tron_task.md&labels=help%20wanted)
+[Click here to create a new content-o-tron task](https://github.com/rust-community/content-o-tron/issues/new?template=new_content-o-tron_task.md&labels=help%20wanted)
 
-___ DELETE ___
+This content needs to be deleted before submitting.
 
-### Brief
+___ END DELETE ___
+
+### Description
 
 _Explain what needs to be done. Provide as much detail as possible._
 
