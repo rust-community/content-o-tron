@@ -8,6 +8,14 @@ ___ DELETE ___
 
 _Explain what needs to be done. Provide as much detail as possible._
 
+### Mocks
+
+_Insert relevant images / illustration_
+
+### Estimation
+
+_How many hours (if known)_
+
 ### Bonus
 
 _List any nice to have items, but not critical to the success of this task._
@@ -19,5 +27,5 @@ _List any nice to have items, but not critical to the success of this task._
 
 ### Admin use only (please leave as-is do not delete from issue)
 
-Collaborators: (add here if not a current maintainer otherwise assign) 
+Collaborators: (add here if not a current maintainer otherwise assign)
 Mentor: (insert name or delete if not required)
