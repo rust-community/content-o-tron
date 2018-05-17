@@ -2,6 +2,7 @@
 
 _Helping the Rust community and newcomers to share their story of using Rust!_
 
+[![Build Status](https://travis-ci.org/rust-community/content-o-tron.svg?branch=master)](https://travis-ci.org/rust-community/content-o-tron)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/content-o-tron/Lobby)
 
 ## Welcome
