@@ -1,4 +1,6 @@
-# Content-o-Tron :robot:
+<img src="assets/mark.svg" width="200px">
+
+# Content-o-Tron
 
 _Helping the Rust community and newcomers to share their story of using Rust!_
 
