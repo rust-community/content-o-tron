@@ -9,10 +9,6 @@ _Helping the Rust community and newcomers to share their story of using Rust!_
 
 ## Welcome
 
-> **Mozilla Global Sprint 2018**
-
-> If you're visiting this repo because of the global sprint, please see this [tracking issue](https://github.com/rust-community/content-o-tron/issues/8) to see how you can help out! This header and text will be removed after the sprint as ended.
-
 This is the project repository for the process that will allow us to define and manage blogging themes (campaigns) that are Rust related.
 
 This document (`README.md`) is your directory to all the possible facets of Content-o-Tron. You'll find out about the purpose, the team involved and more importantly how you can help!
@@ -64,7 +60,7 @@ We need you! If you've written blog posts (with or without Rust experience), edi
 
 ## How can you get involved?
 
-Our [roadmap](https://github.com/rust-community/content-o-tron/issues/2) should outline what is going to happen, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
+Our [roadmap](https://github.com/rust-community/content-o-tron/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap) should outline what is going to happen, when it's going to happen and what type of help we're going to need. This is very much a work in progress, but please check on the roadmap often. We're still transferring a lot of information from our [Open Canvas](https://docs.google.com/presentation/d/1Fvy8AZ9okSO0wDcpXLE54iWRK8TKe4LhI0woHeC1M7g/edit?usp=sharing) (adapted from the Lean Canvas which is a single page summary of a start-up project), but this along with the roadmap should give an idea of what we're trying achieve.
 
 Attend our fortnightly meetings. You can find the next meeting via the Content team's meeting [agenda](http://bit.ly/2GSLLYA).
 
@@ -72,7 +68,7 @@ Important note: you don't need to know anything about Rust to join.
 
 ## Contact Us
 
-If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question on the irc channel ([#rust-content](https://kiwiirc.com/client/irc.mozilla.org:+6667/#rust-content) on the Mozilla network). 
+If you can attend the meeting, feel free to add your query to the agenda. Alternatively you can ask a question in our [gitter room](https://gitter.im/content-o-tron/Lobby).
 
 Finally you can always raise an [issue](https://github.com/rust-community/content-o-tron/issues/new).
 
